@@ -9,3 +9,6 @@ Ejercicio 2:
 -Completar la siguiente frase:
 
 “En el fichero” <aquí va el nombre del fichero> “existen” <aquí va la cantidad de parámetros>
+
+Ejercicio 3:
+Escribir un script que nos diga si el valor ingresado es divisible por 2
