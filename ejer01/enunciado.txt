@@ -1,0 +1,13 @@
+Variables:
+
+Ejercicio 1:
+
+-Escribir el siguiente texto con variables:
+
+“Mi nombre es” <nombre> “tengo” <edad> “años y vivo en” <ciudad>
+
+Ejercicio 2:
+
+-Escribir el siguiente texto pero con inputs por consola:
+
+“Mi actividad favorita es $actividad. Mi comida favorita es $comida”
