@@ -1,0 +1,13 @@
+Condicionales:
+
+Ejercicio 1:
+Verificar que usuario esta actualmente ejecutando
+Hacer un Script que verifique el usuario y en el caso que de que nos sea Root nos arroje un mensaje de error “No tiene acceso como root”
+
+
+Ejercicio 2:
+
+-Escribir un scripts que compare dos inputs (int) y nos de los siguientes mensajes:
+   “Los números ingresados son iguales”
+   “n1 es mayor que n2”
+   “n2 es mayor que n1”
