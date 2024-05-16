@@ -11,3 +11,9 @@ Ejercicio 2:
 -Escribir el siguiente texto pero con inputs por consola:
 
 “Mi actividad favorita es $actividad. Mi comida favorita es $comida”
+
+Ejercicio 2:
+
+-Escribir el siguiente texto pero con inputs por consola:
+
+“Mi actividad favorita es $actividad. Mi comida favorita es $comida”
